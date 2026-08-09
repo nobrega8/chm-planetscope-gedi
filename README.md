@@ -12,7 +12,7 @@ script — everything needed to apply the model to your own co-registered
 raster stack. It does not include the training pipeline or the original
 datasets (see [Scope](#scope) below).
 
-![Example predict_chm.py output for Serra da Lousã: predicted canopy height and per-pixel uncertainty](docs/images/SerraLousa_CHM_preview.jpg)
+![Example predict_chm.py output for Serra da Lousã: predicted canopy height and per-pixel uncertainty](docs/images/SerraLousa_CHM_preview.png)
 
 *Example output of `predict_chm.py` over the Serra da Lousã study area:
 predicted canopy height (left) and per-pixel uncertainty (right), downsampled
