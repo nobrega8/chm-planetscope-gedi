@@ -145,13 +145,29 @@ public_repo/
 
 `models/*.joblib` are tracked with [Git LFS](https://git-lfs.com/) (two of
 the base models are ~110–125 MB each) — run `git lfs install` before
-cloning, or download them from the repository's [Releases]([URL DO REPOSITORIO]/releases)
-page if you'd rather not pull LFS objects.
+cloning. <!-- TODO: once published, optionally also add a GitHub Releases
+page with the model files as plain download links for users who'd rather
+not pull LFS objects. -->
 
 ## Citation
 
 If you use this model or code, please cite the thesis it was produced for —
 see [CITATION.cff](CITATION.cff).
+
+## About the thesis
+
+This model was produced as part of the MSc dissertation *"Canopy Height
+Assessment: A Machine Learning Approach using PlanetScope High-Resolution
+Images"* by **Afonso Gonçalves Nóbrega**, Department of Electrical and
+Computer Engineering, NOVA University Lisbon — Master in Electrical and
+Computer Engineering, Specialization in Digital Systems and Electronics.
+
+- **Supervisor**: André Teixeira Bento Damas Mora, Assistant Professor, NOVA
+  University Lisbon
+- **Co-supervisor**: João Pereira-Pires, Researcher, Uninova
+
+The dissertation is a work in progress; details in [CITATION.cff](CITATION.cff)
+will be updated once it is submitted and defended.
 
 ## License
 
