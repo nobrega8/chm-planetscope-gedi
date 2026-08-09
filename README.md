@@ -1,5 +1,14 @@
 # Canopy Height Model (CHM) — Stacking Ensemble (GEDI + PlanetScope)
 
+> Developed as part of the MSc dissertation *"Canopy Height Assessment: A
+> Machine Learning Approach using PlanetScope High-Resolution Images"* by
+> **Afonso Gonçalves Nóbrega**, Department of Electrical and Computer
+> Engineering, NOVA University Lisbon (Master in Electrical and Computer
+> Engineering, Specialization in Digital Systems and Electronics), supervised
+> by André Teixeira Bento Damas Mora and co-supervised by João Pereira-Pires
+> (Uninova). The dissertation is a work in progress — see
+> [About the thesis](#about-the-thesis) and [Citation](#citation).
+
 A trained machine-learning model that predicts **forest canopy height** (in
 meters), pixel-by-pixel, from PlanetScope multispectral imagery, GLCM texture
 and terrain derivatives — together with a per-pixel **uncertainty** estimate.
