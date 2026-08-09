@@ -21,7 +21,7 @@ preferred-citation:
   type: thesis
   title: "Canopy Height Assessment: A Machine Learning Approach using PlanetScope High-Resolution Images"
   authors:
-    - family-names: "Gonçalves Nóbrega"
+    - family-names: "Nóbrega"
       given-names: "Afonso"
   institution:
     name: "NOVA University Lisbon, Department of Electrical and Computer Engineering"
