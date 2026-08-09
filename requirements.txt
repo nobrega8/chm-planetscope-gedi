@@ -1,0 +1,10 @@
+numpy
+pandas
+rasterio==1.4.*
+joblib
+# Pinned to the exact versions used to train/pickle the models. Loading the
+# .joblib files with a different scikit-learn/xgboost/lightgbm minor version
+# can raise warnings or, in the worst case, fail to unpickle.
+scikit-learn==1.7.2
+xgboost==3.2.0
+lightgbm==4.6.0
