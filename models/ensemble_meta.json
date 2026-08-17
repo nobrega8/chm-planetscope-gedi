@@ -120,7 +120,7 @@
     }
   },
   "config": {
-    "pixel_mode": "ONE_PIXEL",
+    "pixel_mode": "FOOTPRINT_LEVEL",
     "cv_strategy": "stratified",
     "area": "ALL",
     "dataset": "ALL",
